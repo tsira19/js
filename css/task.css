@@ -1,0 +1,22 @@
+*,*::before, *::after{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.progress-bar{
+    position: fixed;
+}
+.h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.one{
+    width: 700px;
+}
+.two{
+    width: 600px;
+}
